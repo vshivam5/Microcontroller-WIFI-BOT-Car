@@ -1,0 +1,2 @@
+# Microcontroller-WIFI-BOT-Car
+This project is based on microcontroller NodeMCU, this is my minor project during junior engineering. the project basically is a car model which is controlled by an android application by the user. the application uses the WIFI bandwidth the transfer the command from the application to the microcontroller then the command flow from microcontroller to motor drivers and then Dc motor.
